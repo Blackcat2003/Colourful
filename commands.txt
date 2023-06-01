@@ -2,3 +2,6 @@ All the commands are written in this file.
 
 git status
 git init ===> .git hidden file
+git add . ===> adds all files from working to staging area
+git commit -m "message"
+git log ===> all the commits with some hash value
