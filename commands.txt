@@ -1,0 +1,4 @@
+All the commands are written in this file.
+
+git status
+git init ===> .git hidden file
